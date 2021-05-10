@@ -16,7 +16,7 @@ When I am not coding or writing articles, I take out time to go see a movie or p
 🧰 Toolbox
 
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/javascript/javascript-original.svg" alt="javascript Logo" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/react/react-original.svg" alt="React Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/composer/composer-original.svg" alt="composer Logo" width="50" height="50"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/github/github-original.svg" alt="Github Logo" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/mysql/mysql-original.svg" alt="sql Logo" width="50" height="50"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/javascript/javascript-original.svg" alt="javascript Logo" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/react/react-original.svg" alt="React Logo" width="50" height="50"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" alt="TailwindCSS" width="50" height="50"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/composer/composer-original.svg" alt="composer Logo" width="50" height="50"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/github/github-original.svg" alt="Github Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/mysql/mysql-original.svg" alt="sql Logo" width="50" height="50"/> 
 
 ---
 ---
@@ -24,12 +24,23 @@ When I am not coding or writing articles, I take out time to go see a movie or p
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [A Developer's Journey](https://okosunmary.hashnode.dev/a-developers-journey)
+- [A Beginner's guide to JavaScript](https://okosunmary.hashnode.dev/a-beginners-guide-to-javascript)
+- [Tailwind to the Rescue of Responsiveness](https://okosunmary.hashnode.dev/tailwind-to-the-rescue-of-responsiveness)
+- [Understanding Object Oriented Programming(OOP)](https://okosunmary.hashnode.dev/understanding-object-oriented-programmingoop)
 <!-- BLOG-POST-LIST:END -->
 
-▶ [...more blog articles](https://catalins.tech)
+▶ [...more blog articles](https://okosunmary.hashnode.dev/)
 
 ---
 
+---
+
+## &#x1f4c8; My GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marienoir&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Mary's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marienoir&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Marienoir/Marienoir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
