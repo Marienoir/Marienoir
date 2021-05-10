@@ -19,6 +19,16 @@ When I am not coding or writing articles, I take out time to go see a movie or p
 <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/javascript/javascript-original.svg" alt="javascript Logo" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/react/react-original.svg" alt="React Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/composer/composer-original.svg" alt="composer Logo" width="50" height="50"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/github/github-original.svg" alt="Github Logo" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/mysql/mysql-original.svg" alt="sql Logo" width="50" height="50"/> 
 
 ---
+---
+
+📘 Latest Blog Articles
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+▶ [...more blog articles](https://catalins.tech)
+
+---
 
 
 <!--
