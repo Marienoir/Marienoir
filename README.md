@@ -34,9 +34,9 @@ When I am not coding or writing articles, I am either seeing a movie or playing 
 
 ## &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marienoir&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marienoir&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Mary's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marienoir&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Mary's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marienoir&count_private=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Marienoir/Marienoir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
