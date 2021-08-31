@@ -1,8 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">, I am Mary Okosun!
 
 
-![Twitter Follow](https://img.shields.io/twitter/follow/marynoir_?style=social)
-
 I am a front end developer based in Lagos, Nigeria. I am a result-oriented web developer dedicated to creating and optimising interactive and user-friendly websites.
 
 I am also interested in leveraging analytical skills and strong attention to details in order to deliver original and efficient web solutions. I enjoy writing and reading books.
@@ -25,6 +23,7 @@ When I am not coding or writing articles, I am either seeing a movie or playing 
 - [A Beginner's guide to JavaScript](https://okosunmary.hashnode.dev/a-beginners-guide-to-javascript)
 - [Tailwind to the Rescue of Responsiveness](https://okosunmary.hashnode.dev/tailwind-to-the-rescue-of-responsiveness)
 - [Understanding Object Oriented Programming(OOP)](https://okosunmary.hashnode.dev/understanding-object-oriented-programmingoop)
+- - [What is random() in JavaScript? ](https://www.educative.io/edpresso/what-is-random-in-javascript)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://okosunmary.hashnode.dev/)
