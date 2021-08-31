@@ -23,7 +23,7 @@ When I am not coding or writing articles, I am either seeing a movie or playing 
 - [A Beginner's guide to JavaScript](https://okosunmary.hashnode.dev/a-beginners-guide-to-javascript)
 - [Tailwind to the Rescue of Responsiveness](https://okosunmary.hashnode.dev/tailwind-to-the-rescue-of-responsiveness)
 - [Understanding Object Oriented Programming(OOP)](https://okosunmary.hashnode.dev/understanding-object-oriented-programmingoop)
-- - [What is random() in JavaScript? ](https://www.educative.io/edpresso/what-is-random-in-javascript)
+- [What is random() in JavaScript? ](https://www.educative.io/edpresso/what-is-random-in-javascript)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://okosunmary.hashnode.dev/)
