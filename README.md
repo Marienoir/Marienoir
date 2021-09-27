@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">, I am Mary Okosun!
+# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">, I am MARY OKOSUN!
 
 
 I am a front end developer based in Lagos, Nigeria. I am a result-oriented web developer dedicated to creating and optimising interactive and user-friendly websites.
