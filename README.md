@@ -1,9 +1,9 @@
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">, I am MARY OKOSUN!
 
 
-I am a front end developer based in Lagos, Nigeria. I am a result-oriented web developer dedicated to creating and optimising interactive and user-friendly websites.
+I am a **back end developer** based in Lagos, Nigeria. I am a result-oriented software engineer dedicated to creating, maintaining, testing, and debugging  components and features on the server-side. This includes the core application logic, databases, data and application integration, API, and other processes taking place behind the scenes of a front end application or system.
 
-I am also interested in leveraging analytical skills and strong attention to details in order to deliver original and efficient web solutions. I enjoy writing and reading books.
+I am also interested in leveraging analytical skills and strong attention to details in order to deliver original and efficient web solutions and ensure a positive user experience. I enjoy writing and reading books.
 
 When I am not coding or writing articles, I am either seeing a movie or playing volleyball.
 
