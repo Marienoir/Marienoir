@@ -1,4 +1,4 @@
-# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">, I am MARY OKOSUN!
+# Hi there 🤗 , I am MARY OKOSUN!
 
 
 I am a **back end developer** based in Lagos, Nigeria. I am a result-oriented software engineer dedicated to creating, maintaining, testing, and debugging  components and features on the server-side. This includes the core application logic, databases, data and application integration, API, and other processes taking place behind the scenes of a front end application or system.
